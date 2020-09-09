@@ -1,4 +1,7 @@
 # face_graduate
+
+Author：Jeromeyoung
+
 测试及说明页面：
 
 Face Recognition 是一个基于 Python 的人脸识别库，它还提供了一个命令行工具，让你通过命令行对任意文件夹中的图像进行人脸识别操作。
